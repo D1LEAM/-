@@ -1,0 +1,14 @@
+C:\Users\40354\Desktop\test C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\40354\Desktop\test C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\40354\Desktop\test C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\40354\Desktop\test C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\40354\Desktop\test C#\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\40354\Desktop\test C#\ConsoleApp1\obj\Debug\ConsoleApp1.application
